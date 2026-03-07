@@ -17,13 +17,11 @@ My goal is to solve 400+ DSA problems to prepare for software engineering interv
 - Greedy Algorithms
 - Recursion & Backtracking
 
-## Languages Used
+## Language Used
 - Java
-- C
 
 ## Platforms Used
 - LeetCode
-- GeeksforGeeks
 
 ## Progress Tracker
 
