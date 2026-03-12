@@ -50,7 +50,7 @@ Total Problems Solved: **0**
 
 | Topic | Problems Solved |
 |------|----------------|
-| Arrays | 3 |
+| Arrays | 4 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
