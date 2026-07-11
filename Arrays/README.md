@@ -123,7 +123,7 @@ Disadvantages of Arrays
 • Insertion and deletion can be slow
 • Can store only same type of data
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 Examples of Array Problems in DSA
 
@@ -138,7 +138,7 @@ Some common beginner problems are:
 
 These problems help in understanding how arrays work in real coding interviews.
 
-------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Conclusion
 
